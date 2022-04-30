@@ -206,3 +206,30 @@ eader{
     margin-right: 550px;
     color: #FFFFFF;
 }
+
+.finalis{
+    max-width: 1170px;
+    margin: auto;
+    
+}
+
+.finals h2{
+    color: #6E29A9;
+}
+
+.final{
+    background-color: #1B314F;
+    padding: 70px 0;
+    height: 180px;
+    width: 1512;
+    align-items: center;
+}
+
+.final p{
+    font-size: 25px;
+    color: white;
+    text-align: right;
+}
+
+
+
